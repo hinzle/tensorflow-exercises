@@ -1,0 +1,10 @@
+# file extensions
+*.csv
+*.xlsx
+*.zip
+*.jpg
+*.png
+
+# folders
+__pycache__/
+pizza_steak/
